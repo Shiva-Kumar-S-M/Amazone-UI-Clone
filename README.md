@@ -1,4 +1,4 @@
-## Amazon UI Clone – HTML and CSS Project
+Amazon UI Clone – HTML and CSS Project
 
 Overview
 
@@ -13,7 +13,7 @@ What this project demonstrates
 * Ability to replicate a real-world interface
 * Focus on alignment, spacing, and visual hierarchy
 
-##Tech stack
+Tech stack
 
 HTML
 CSS
@@ -29,7 +29,7 @@ amazon-clone/
 │   
 └── README.md
 
-##Features
+Features
 
 * Navigation bar inspired by Amazon
 * Product grid layout
@@ -43,7 +43,9 @@ Future improvements
 * Enhance UI for better user experience
 * Expand into a full-stack application
 
-##Purpose
+
+Purpose
+
 
 This project marks a shift from learning concepts to applying them in a structured way. It reflects consistency, attention to detail, and an effort to build a strong foundation in frontend development.
 
