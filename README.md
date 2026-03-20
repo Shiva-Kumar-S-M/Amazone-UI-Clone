@@ -1,25 +1,22 @@
 Amazon UI Clone – HTML and CSS Project
 
-Overview
+## Overview
 
-This project is a structured frontend recreation of the Amazon homepage, built using HTML and CSS. It focuses on understanding how large-scale user interfaces are designed, organized, and visually balanced.
+This project is a frontend recreation of the Amazon homepage built using HTML and CSS. It focuses on understanding how real-world web interfaces are structured and styled.
 
-Rather than only following tutorials, the goal was to rebuild the interface with attention to layout, spacing, and consistency to develop practical frontend skills.
+The goal is to strengthen practical frontend skills by building a clean and organized user interface.
 
-What this project demonstrates
+---
 
-* Clear and semantic HTML structure
-* Effective use of CSS for layout and styling
-* Ability to replicate a real-world interface
-* Focus on alignment, spacing, and visual hierarchy
+## Problem Statement
 
-Tech stack
+Building structured and visually consistent web interfaces can be challenging for beginners. This project helps in understanding layout design, styling, and organization by recreating a real-world e-commerce homepage.
 
-HTML
-CSS
+---
 
-Project structure
+## Project Structure
 
+```
 amazon-clone/
 │
 ├── index.html
@@ -27,26 +24,55 @@ amazon-clone/
 │
 ├── images/
 │   
-└── README.md
+│
+├── README.md
+└── LICENSE
+```
 
-Features
+---
 
-* Navigation bar inspired by Amazon
+## Features
+
+* Navigation bar
 * Product grid layout
-* Organized and reusable styling
-* Clean visual structure
+* Clean and structured UI
 
-Future improvements
+---
 
-* Improve responsiveness across devices
-* Add interactivity using JavaScript
-* Enhance UI for better user experience
-* Expand into a full-stack application
+## Tech Stack
 
+HTML
+CSS
 
-Purpose
+---
 
+## How to Run
 
-This project marks a shift from learning concepts to applying them in a structured way. It reflects consistency, attention to detail, and an effort to build a strong foundation in frontend development.
+1. Clone the repository
+2. Open index.html in your browser
 
-A simple interface, built with intent, is where real understanding begins.
+---
+
+## Skills Demonstrated
+
+* HTML structuring
+* CSS styling and layout
+* UI design basics
+
+---
+
+## Future Improvements
+
+* Improve responsiveness
+* Add JavaScript functionality
+* Enhance UI design
+
+---
+
+## License
+
+MIT License
+
+---
+
+Small consistent efforts build strong foundations.
