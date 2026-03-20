@@ -18,7 +18,7 @@ Tech stack
 HTML
 CSS
 
-##Project structure
+Project structure
 
 amazon-clone/
 │
